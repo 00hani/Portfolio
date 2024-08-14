@@ -16,7 +16,7 @@ function AboutMe({ AboutMeid }) {
             display: "flex",
             alignItems: "center",
             gap: 120,
-            width: 1380,
+            width: 1450,
           }}
         >
           <p
@@ -50,7 +50,7 @@ function AboutMe({ AboutMeid }) {
             display: "flex",
             gap: "40px",
             justifyContent: "center",
-            width: 1380,
+            width: 1450,
           }}
         >
           {/* <div
